@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 5dfad6f671ad9024998ee6364a28331d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box004
+    100004: Box005
+    100006: Box007
+    100008: Box008
+    100010: Box009
+    100012: Box010
+    100014: Box011
+    100016: Box012
+    100018: Box013
+    100020: Box014
+    100022: Box015
+    100024: Box016
+    100026: Box017
+    100028: Columna
+    100030: columna de Libros
+    100032: columna de Libros001
+    100034: columna de Libros002
+    100036: columna de Libros003
+    100038: columna de Libros004
+    100040: Columna001
+    100042: Columna002
+    100044: Columna003
+    100046: Libros Estanteria001
+    100048: Libros Estanteria002
+    100050: Libros Estanteria003
+    100052: Libros Estanteria005
+    100054: Libros Estanteria006
+    100056: Libros Estanteria007
+    100058: Libros Estanteria009
+    100060: Libros Estanteria010
+    100062: Libros Estanteria011
+    100064: Libros Estanteria012
+    100066: Libros Estanteria013
+    100068: pared
+    100070: pared001
+    100072: Pared01
+    100074: SueloBiblioteca
+    400000: //RootNode
+    400002: Box004
+    400004: Box005
+    400006: Box007
+    400008: Box008
+    400010: Box009
+    400012: Box010
+    400014: Box011
+    400016: Box012
+    400018: Box013
+    400020: Box014
+    400022: Box015
+    400024: Box016
+    400026: Box017
+    400028: Columna
+    400030: columna de Libros
+    400032: columna de Libros001
+    400034: columna de Libros002
+    400036: columna de Libros003
+    400038: columna de Libros004
+    400040: Columna001
+    400042: Columna002
+    400044: Columna003
+    400046: Libros Estanteria001
+    400048: Libros Estanteria002
+    400050: Libros Estanteria003
+    400052: Libros Estanteria005
+    400054: Libros Estanteria006
+    400056: Libros Estanteria007
+    400058: Libros Estanteria009
+    400060: Libros Estanteria010
+    400062: Libros Estanteria011
+    400064: Libros Estanteria012
+    400066: Libros Estanteria013
+    400068: pared
+    400070: pared001
+    400072: Pared01
+    400074: SueloBiblioteca
+    2100000: No Name
+    2300000: Box004
+    2300002: Box005
+    2300004: Box007
+    2300006: Box008
+    2300008: Box009
+    2300010: Box010
+    2300012: Box011
+    2300014: Box012
+    2300016: Box013
+    2300018: Box014
+    2300020: Box015
+    2300022: Box016
+    2300024: Box017
+    2300026: Columna
+    2300028: columna de Libros
+    2300030: columna de Libros001
+    2300032: columna de Libros002
+    2300034: columna de Libros003
+    2300036: columna de Libros004
+    2300038: Columna001
+    2300040: Columna002
+    2300042: Columna003
+    2300044: Libros Estanteria001
+    2300046: Libros Estanteria002
+    2300048: Libros Estanteria003
+    2300050: Libros Estanteria005
+    2300052: Libros Estanteria006
+    2300054: Libros Estanteria007
+    2300056: Libros Estanteria009
+    2300058: Libros Estanteria010
+    2300060: Libros Estanteria011
+    2300062: Libros Estanteria012
+    2300064: Libros Estanteria013
+    2300066: pared
+    2300068: pared001
+    2300070: Pared01
+    2300072: SueloBiblioteca
+    3300000: Box004
+    3300002: Box005
+    3300004: Box007
+    3300006: Box008
+    3300008: Box009
+    3300010: Box010
+    3300012: Box011
+    3300014: Box012
+    3300016: Box013
+    3300018: Box014
+    3300020: Box015
+    3300022: Box016
+    3300024: Box017
+    3300026: Columna
+    3300028: columna de Libros
+    3300030: columna de Libros001
+    3300032: columna de Libros002
+    3300034: columna de Libros003
+    3300036: columna de Libros004
+    3300038: Columna001
+    3300040: Columna002
+    3300042: Columna003
+    3300044: Libros Estanteria001
+    3300046: Libros Estanteria002
+    3300048: Libros Estanteria003
+    3300050: Libros Estanteria005
+    3300052: Libros Estanteria006
+    3300054: Libros Estanteria007
+    3300056: Libros Estanteria009
+    3300058: Libros Estanteria010
+    3300060: Libros Estanteria011
+    3300062: Libros Estanteria012
+    3300064: Libros Estanteria013
+    3300066: pared
+    3300068: pared001
+    3300070: Pared01
+    3300072: SueloBiblioteca
+    4300000: SueloBiblioteca
+    4300002: Columna003
+    4300004: Columna
+    4300006: Columna001
+    4300008: Columna002
+    4300010: Box004
+    4300012: Box005
+    4300014: Box007
+    4300016: Box008
+    4300018: Box009
+    4300020: Box010
+    4300022: Box011
+    4300024: Box012
+    4300026: Box013
+    4300028: Box014
+    4300030: Box015
+    4300032: Pared01
+    4300034: pared
+    4300036: Box016
+    4300038: Box017
+    4300040: pared001
+    4300042: columna de Libros
+    4300044: columna de Libros001
+    4300046: columna de Libros002
+    4300048: columna de Libros003
+    4300050: columna de Libros004
+    4300052: Libros Estanteria001
+    4300054: Libros Estanteria002
+    4300056: Libros Estanteria003
+    4300058: Libros Estanteria005
+    4300060: Libros Estanteria006
+    4300062: Libros Estanteria007
+    4300064: Libros Estanteria009
+    4300066: Libros Estanteria010
+    4300068: Libros Estanteria011
+    4300070: Libros Estanteria012
+    4300072: Libros Estanteria013
+    6400000: Box004
+    6400002: Box005
+    6400004: Box007
+    6400006: Box008
+    6400008: Box009
+    6400010: Box010
+    6400012: Box011
+    6400014: Box012
+    6400016: Box013
+    6400018: Box014
+    6400020: Box015
+    6400022: Box016
+    6400024: Box017
+    6400026: Columna
+    6400028: columna de Libros
+    6400030: columna de Libros001
+    6400032: columna de Libros002
+    6400034: columna de Libros003
+    6400036: columna de Libros004
+    6400038: Columna001
+    6400040: Columna002
+    6400042: Columna003
+    6400044: Libros Estanteria001
+    6400046: Libros Estanteria002
+    6400048: Libros Estanteria003
+    6400050: Libros Estanteria005
+    6400052: Libros Estanteria006
+    6400054: Libros Estanteria007
+    6400056: Libros Estanteria009
+    6400058: Libros Estanteria010
+    6400060: Libros Estanteria011
+    6400062: Libros Estanteria012
+    6400064: Libros Estanteria013
+    6400066: pared
+    6400068: pared001
+    6400070: Pared01
+    6400072: SueloBiblioteca
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
